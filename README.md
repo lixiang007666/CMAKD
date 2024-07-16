@@ -1,3 +1,3 @@
 # LAA-DoCL
  
-:rocket: The first version of the code will be open-sourced soon.
+:rocket: Once the article is accepted, we will open-source the code.
